@@ -4,7 +4,7 @@ The primary scope of this project is to forecast the bottom hole pressure (BHP) 
 
 🚩: We are Initially utilising ARIMA and then we aim to utilize the combined work by (Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, Wancai Zhang) in Informer forecasting model:Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.
 
-<img src="[https://your-image-url.type](https://github.com/Kickersisoff/Oil-Well-Production-Optimization/assets/34878344/768e16ae-8a7f-4e43-b7ad-0b9ff80b556e)" width="100" height="100">
+<img src="[https://your-image-url.type](https://github.com/Kickersisoff/Oil-Well-Production-Optimization/assets/34878344/768e16ae-8a7f-4e43-b7ad-0b9ff80b556e)" width="50%" height="50%">
 
 Figure 1. An example of training dataset
 
