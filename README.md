@@ -21,7 +21,7 @@ The primary scope of this project is to forecast the bottom hole pressure (BHP) 
 <b>Figure 2.</b> Line plot for Target Variable
 </p>
 
-#### Informer Model
+### Informer Model
 Informer is an upgraded version of the Transformer model that maintains a larger prediction capacity while being more efficient in terms of architecture, memory usage, and computation. There are several severe issues with Transformer that prevent it from being directly applicable to LSTF (Long sequence Time series forecasting), including quadratic time complexity, high memory usage, and inherent limitation of the encoder-decoder architecture.
 
 <p align="center">
@@ -31,7 +31,7 @@ Informer is an upgraded version of the Transformer model that maintains a larger
 <b>Figure 3.</b> The architecture of Informer model.
 </p>
 
-Requirements
+`Requirements`
 * Python 3.6
 * matplotlib == 3.1.1
 * numpy == 1.19.4
@@ -39,7 +39,7 @@ Requirements
 * scikit_learn == 0.21.3
 * torch == 1.8.0
 
-#### Result
+### Result
 
 <p align="center">
 <br><br>
@@ -47,3 +47,15 @@ Requirements
 <br><br>
 <b>Figure 4.</b> Multivariate forecasting results (for 96 days).
 </p>
+<p align="center">
+<br><br>
+  <img src="https://github.com/Kickersisoff/Oil-Well-Production-Optimization/assets/34878344/2cc4aea4-d2df-4d2a-bbbb-2d7629f730ff" width="600" height="300">
+<br><br>
+<b>Figure 4.</b> future forecasting results (for 24 days).
+</p>
+
+### What we Achieved
+* Assessed the well’s life
+* Visualizing the well’s IPR (inflow performance relationship) changes with time
+* What will be an input for the production optimization of the well
+* Whether an artificial lift is needed in the well
