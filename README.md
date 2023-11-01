@@ -4,6 +4,7 @@ The primary scope of this project is to forecast the bottom hole pressure (BHP) 
 
 🚩: We are Initially utilising ARIMA and then we aim to utilize the combined work by (Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, Wancai Zhang) in Informer forecasting model:Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.
 
+🚩: Find the `Research Report` here - [Link](https://drive.google.com/file/d/1fwwCZzIIfk6Hiip40Z6bgMQQZSp9eS_J/view?usp=sharing)
 
 <p align="center">
 <br><br>
@@ -46,5 +47,3 @@ Requirements
 <br><br>
 <b>Figure 4.</b> Multivariate forecasting results (for 96 days).
 </p>
-
-🚩: Find the `Research Report` here - [Link](https://drive.google.com/file/d/1fwwCZzIIfk6Hiip40Z6bgMQQZSp9eS_J/view?usp=sharing)
